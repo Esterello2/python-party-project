@@ -1,12 +1,12 @@
-# CMSC 14200 Course Project
+# MY PORTFOLIO
 
-# project-arellanoe-dianachu-riyushthakur-amatute
+# Reversi Board Game
 
 Team members:
-- Esteban Arellano (arellanoe) (GUI)
-- Diana Chu (dianachu) (TUI)
-- Riyush Thakur (riyushthakur) (Bot)
-- Andrew Matute (amatute1303) (QA)
+- Esteban Arellano (GUI)
+- Diana Chu (TUI)
+- Riyush Thakur (Bot)
+- Andrew Matute (QA)
 
 Improvements
 - Game Logic
