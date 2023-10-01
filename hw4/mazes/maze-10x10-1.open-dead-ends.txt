@@ -1,0 +1,10 @@
+E,E,E,E,E,,E,E,E,
+N,NE,E,N,N,N,N,NE,E,N
+NE,E,E,E,NE,N,NE,,E,N
+N,N,N,E,N,E,E,N,N,N
+N,N,NE,NE,E,NE,,N,NE,N
+NE,N,N,E,E,E,N,NE,E,N
+NE,E,N,NE,E,E,,NE,E,N
+NE,E,E,NE,,E,N,NE,E,
+N,NE,E,,N,N,E,N,E,N
+NE,E,E,NE,NE,N,NE,E,N,N

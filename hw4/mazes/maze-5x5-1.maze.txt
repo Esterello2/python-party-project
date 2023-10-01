@@ -1,0 +1,5 @@
+E,,E,E,
+,NE,E,N,N
+NE,E,,E,N
+N,N,N,N,
+N,NE,E,NE,N
