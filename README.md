@@ -50,3 +50,9 @@ Enhancements
 - added a player piece counter that updates on GUI; it is never recaculated
 since it is stored in an attribute in the Reversi class as a dictionary,
 mapping player number to counter.
+
+# Maze Game Text User Interface
+Collaboration with another programmer where a TUI maze was constructed using object-oriented 
+programming, BFS and DFS algorithms, and game scripting.
+
+
