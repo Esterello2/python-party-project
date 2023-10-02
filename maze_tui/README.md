@@ -2,13 +2,13 @@
 
 This directory contains the following files:
 
-- maze.py: You will do your work in this Python file.
+- maze.py: Implementation of maze class and methods.
 
 - tui_solver.py and tui_game.py: Files you will implement your TUIs in.
 
-- cell.py: Implementation of cell class. Do NOT modify this file.
+- cell.py: Implementation of cell class.
 
-- test_hw4.py and grader.py: Test code for HW #4. Do NOT modify these files.
+- test_hw4.py and grader.py: Test code for maze.
 
 - mazes/: Directory with test data. Do NOT modify the contents of this directory.
 
