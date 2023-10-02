@@ -14,7 +14,7 @@ Team members:
 
 Enhancements
 - added alternate library to the TUI to support more than 9 colors
-- added music to the GUI (this enhancement only works on mac, not on windows)
+- added music to the GUI
 - added start screen on the GUI
 - added a player piece counter that updates on GUI; it is never recaculated
 since it is stored in an attribute in the Reversi class as a dictionary,
